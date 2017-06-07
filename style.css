@@ -1,0 +1,42 @@
+body {
+  background-color: #e6B89C;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.display-3 {
+  font-family: 'Pacifico', cursive;
+}
+
+
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  color: #50514F;
+}
+
+#fillertxt {
+  font-size: 20px;
+  color: #50514F;
+}
+
+footer {
+  text-align: center;
+  font-size: .75em;
+  color: #50514F;
+}
+
+.logo {
+  height: auto;
+  width: auto;
+  max-width: 25px;
+  max-height: 25px;
+}
+
+.beans1 {
+  height: auto;
+  width: auto;
+  max-width: 400px;
+  max-height: 400px;
+  float: right;
+  margin-right: auto;
+}
